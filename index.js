@@ -17,7 +17,7 @@ function johnLennonFacts(array) {
 }
 
 function iLoveTheBeatles(n) {
-  var loveList
+  var loveList = [];
   var i = n;
   
   do {
